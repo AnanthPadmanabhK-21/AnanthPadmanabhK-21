@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=Designing+circuits+%F0%9F%94%A7+Writing+code+%F0%9F%92%BB+Solving+real+problems+%E2%9A%A1;ESP32+%7C+MATLAB+%7C+Python+%7C+IoT+%7C+Embedded+C;IEEE+Photonics+Society+Chair+%40+VIT+2025+%F0%9F%8C%90;Electronics+%2B+Engineering+%2B+Innovation+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=580&lines=Building+circuits+%F0%9F%94%A7+Writing+code+%F0%9F%92%BB+Solving+real+problems+%E2%9A%A1;ESP32+%7C+MATLAB+%7C+Python+%7C+IoT+%7C+Embedded+C;IEEE+Photonics+Society+Chair+%40+VIT+2025+%F0%9F%8C%90;Electronics+%2B+Engineering+%2B+Innovation+%3D+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
 </div>
 
