@@ -27,11 +27,11 @@
 ## ⚡ Currently Transmitting
 
 ```
-🔭  Building  →  Embedded, Arduino IDE, IoT & AI-based Engineering Projects
-🌱  Learning  →  Python · ESP8266/ESP32 · GitHub · AI Dev Tools
-🌐  Leading   →  IEEE Photonics Society Student Chapter @ VIT 2025
-🤝  Seeking   →  Collaborations on Embedded Systems & Open Source
-🛠  Improving →  Python skills & Hardware-Software Integration
+🔭  Building   →  Embedded, Arduino IDE, IoT & AI-based Engineering Projects
+🌱  Learning   →  Python · ESP8266/ESP32 · GitHub · AI Dev Tools
+🌐  Leading    →  IEEE Photonics Society Student Chapter @ VIT 2025
+🤝  Seeking    →  Collaborations on Embedded Systems & Open Source
+🛠  Improving   →  Python skills & Hardware-Software Integration →
 ```
 
 ---
