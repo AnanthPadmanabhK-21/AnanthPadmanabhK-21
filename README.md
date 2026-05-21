@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2744,100:1a3a5c&height=160&section=header&text=Ananth%20Padmanabh%20K&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20IEEE%20&descAlignY=60&descSize=16&descColor=e2e8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2744,120:1a3a5c&height=180&section=header&text=Ananth%20Padmanabh%20K&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20IEEE%20&descAlignY=60&descSize=16&descColor=e2e8f0" width="100%"/>
 
 <div align="center">
 
@@ -15,7 +15,7 @@
 │  Name     :  Ananth Padmanabh K                             │
 │  Branch   :  Electronics & Communication Engineering        │
 │  College  :  Vemana Institute of Technology, Bangalore      │
-│  Role     :  IEEE Photonics Society Student Branch Chair    │
+│  Role     :  Student, Former Chair-IEEE photonics Society   |
 │  Status   :  [ OPEN TO COLLABORATE & LEARN ]                │
 └─────────────────────────────────────────────────────────────┘
 ```
@@ -27,9 +27,9 @@
 ## ⚡ Currently Transmitting
 
 ```
-🔭  Building  →  Embedded, IoT & AI-based Engineering Projects
+🔭  Building  →  Embedded, Arduino IDE, IoT & AI-based Engineering Projects
 🌱  Learning  →  Python · ESP8266/ESP32 · GitHub · AI Dev Tools
-🌐  Leading   →  IEEE Photonics Society Student Branch @ VIT 2025
+🌐  Leading   →  IEEE Photonics Society Student Chapter @ VIT 2025
 🤝  Seeking   →  Collaborations on Embedded Systems & Open Source
 🛠  Improving →  Python skills & Hardware-Software Integration
 ```
@@ -43,7 +43,7 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0d1117?style=flat-square&logo=mathworks&logoColor=38bdf8)
 ![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=38bdf8)
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=38bdf8)
-![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css3&logoColor=38bdf8)
+
 
 #### Hardware & Embedded
 ![Arduino](https://img.shields.io/badge/Arduino-0d1117?style=flat-square&logo=arduino&logoColor=38bdf8)
@@ -55,10 +55,10 @@
 ![MQTT](https://img.shields.io/badge/MQTT-0d1117?style=flat-square&logo=eclipse-mosquitto&logoColor=38bdf8)
 ![I2C](https://img.shields.io/badge/I²C-0d1117?style=flat-square&logoColor=38bdf8)
 ![SPI](https://img.shields.io/badge/SPI-0d1117?style=flat-square&logoColor=38bdf8)
-![UART](https://img.shields.io/badge/UART-0d1117?style=flat-square&logoColor=38bdf8)
+
 
 #### Tools
-![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=38bdf8)
+![Chatgpt](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=38bdf8)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=38bdf8)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=38bdf8)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=38bdf8)
@@ -69,7 +69,7 @@
 
 | Project | About | Stack |
 |---------|-------|-------|
-| [**Web-Development-Projects**](https://github.com/AnanthPadmanabhK-21/Web-Development-Projects) | Mini websites & prototypes built while learning frontend from scratch | `HTML` `CSS` |
+| [**Web-Development-Projects**](https://github.com/AnanthPadmanabhK-21/Web-Development-Projects) | Mini websites & prototypes built while learning frontend from scratch | `HTML` |
 | [**Submarine-MATLAB-Simulations**](https://github.com/AnanthPadmanabhK-21/Submarine-MATLAB-Simulations) | Autonomous submarine model — rust detection, PID control & command comms | `MATLAB` |
 
 > 🔬 More projects brewing in the lab — stay tuned!
@@ -101,7 +101,7 @@
 
 | Role | Organisation | Year |
 |------|-------------|------|
-| 🌐 **Chair** — IEEE Photonics Society Student Branch | Vemana Institute of Technology | 2025 |
+| 🌐 **Chair** — IEEE Photonics Society Student Chapter | Vemana Institute of Technology | 2025 |
 | 🎓 **ECE Student** | Vemana Institute of Technology | 2023 – Present |
 
 - 🏆 Active **Hackathon** participant — turning ideas into working prototypes
