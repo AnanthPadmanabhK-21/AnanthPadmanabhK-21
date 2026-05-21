@@ -116,7 +116,7 @@ class AnanthaPadmanabhK:
 | 🌟 Role | 🏛️ Organization | 📅 Year |
 |:---:|:---:|:---:|
 | **Chair** | IEEE Photonics Society Student Branch — VIT | 2025 |
-| **ECE Student** | Vemana Institute of Technology | 2024–Present |
+| **ECE Student** | Vemana Institute of Technology | 2023–Present |
 
 </div>
 
