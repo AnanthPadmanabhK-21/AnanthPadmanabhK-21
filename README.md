@@ -95,14 +95,6 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AnanthPadmanabhK-21&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakNum=38bdf8&sideNums=c9d1d9&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e)](https://git.io/streak-stats)
-
-</div>
-
 ---
 
 ## 🏅 Leadership & Involvement
@@ -151,6 +143,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:0f2744,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
+
 
 
 
