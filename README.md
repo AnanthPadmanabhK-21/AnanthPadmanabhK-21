@@ -31,7 +31,7 @@
 🌱  Learning   →  Python · ESP8266/ESP32 · GitHub · AI Dev Tools
 🌐  Leading    →  IEEE Photonics Society Student Chapter @ VIT 2025
 🤝  Seeking    →  Collaborations on Embedded Systems & Open Source
-🛠  Improving   →  Python skills & Hardware-Software Integration →
+🛠  Improving   →  Python skills & Hardware-Software Integration 
 ```
 
 ---
@@ -58,7 +58,7 @@
 
 
 #### Tools
-![Chatgpt](https://img.shields.io/badge/chatgpt-0d1117?style=flat-square&logo=chatgpt&logoColor=38bdf8)
+![Chatgpt](https://img.shields.io/badge/Chatgpt-0d1117?style=flat-square&logo=Chatgpt&logoColor=38bdf8)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=38bdf8)
 ![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=38bdf8)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=38bdf8)
