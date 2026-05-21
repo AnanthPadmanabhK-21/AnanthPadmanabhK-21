@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 ```python
-class AnanthaPadmanabhK:
+class AnanthPadmanabhK:
     def __init__(self):
         self.name        = "Ananth Padmanabh K"
         self.username    = "AnanthPadmanabhK-21"
