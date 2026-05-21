@@ -79,23 +79,21 @@
 ## 📊 GitHub Signal
 
 <div align="center">
-
-<img height="155em" src="https://github-readme-stats.vercel.app/api?username=AnanthPadmanabhK-21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&bg_color=0d1117&text_color=c9d1d9"/>
-&nbsp;
-<img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthPadmanabhK-21&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&title_color=38bdf8&bg_color=0d1117&text_color=c9d1d9"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=AnanthPadmanabhK-21&show_icons=true&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnanthPadmanabhK-21&layout=compact&langs_count=6&hide_border=true&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117" width="38%" />
 </div>
 
+<br/>
+
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnanthPadmanabhK-21&theme=tokyonight&hide_border=true&ring=38bdf8&fire=f97316&currStreakLabel=38bdf8&background=0d1117&stroke=38bdf8&dates=8b949e" alt="GitHub Streak"/>
-
+  <img src="https://streak-stats.demolab.com?user=AnanthPadmanabhK-21&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=f97316&currStreakNum=38bdf8&sideNums=c9d1d9&currStreakLabel=38bdf8&sideLabels=c9d1d9&dates=8b949e" width="60%" />
 </div>
 
+<br/>
+
 <div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AnanthPadmanabhK-21&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area=true&hide_border=true)](https://github.com/AnanthPadmanabhK-21)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnanthPadmanabhK-21&bg_color=0d1117&color=38bdf8&line=38bdf8&point=f97316&area_color=1a1f3a&area=true&hide_border=true" width="97%" />
 </div>
 
 ---
@@ -146,6 +144,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a3a5c,50:0f2744,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
+
 
 
 
