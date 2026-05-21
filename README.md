@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2744,100:1a3a5c&height=160&section=header&text=Ananth%20Padmanabh%20K&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20IEEE%20Chair&descAlignY=60&descSize=16&descColor=e2e8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0f2744,100:1a3a5c&height=160&section=header&text=Ananth%20Padmanabh%20K&fontSize=40&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=ECE%20Student%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20IEEE%20&descAlignY=60&descSize=16&descColor=e2e8f0" width="100%"/>
 
 <div align="center">
 
@@ -16,7 +16,7 @@
 │  Branch   :  Electronics & Communication Engineering        │
 │  College  :  Vemana Institute of Technology, Bangalore      │
 │  Role     :  IEEE Photonics Society Student Branch Chair    │
-│  Status   :  [ ● OPEN TO COLLABORATE & LEARN ]              │
+│  Status   :  [ OPEN TO COLLABORATE & LEARN ]                │
 └─────────────────────────────────────────────────────────────┘
 ```
 
