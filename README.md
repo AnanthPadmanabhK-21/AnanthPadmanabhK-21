@@ -69,7 +69,7 @@
 
 | Project | About | Stack |
 |---------|-------|-------|
-| [**Web-Development-Projects**](https://github.com/AnanthPadmanabhK-21/Web-Development-Projects) | Mini websites & prototypes built while learning frontend from scratch | `HTML` 'CSS' |
+| [**Web-Development-Projects**](https://github.com/AnanthPadmanabhK-21/Web-Development-Projects) | Mini websites & prototypes built while learning frontend from scratch | `HTML` `CSS` |
 | [**Submarine-MATLAB-Simulations**](https://github.com/AnanthPadmanabhK-21/Submarine-MATLAB-Simulations) | Autonomous submarine model — rust detection, PID control & command comms | `MATLAB` |
 
 > 🔬 More projects brewing in the lab — stay tuned!
