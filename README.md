@@ -58,9 +58,9 @@
 
 
 #### Tools
-![Chatgpt](https://img.shields.io/badge/Chatgpt-0d1117?style=flat-square&logo=Chatgpt&logoColor=38bdf8)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-0d1117?style=flat-square&logo=ChatGPT&logoColor=38bdf8)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=38bdf8)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visualstudiocode&logoColor=38bdf8)
+![VS code](https://img.shields.io/badge/VS_code-0d1117?style=flat-square&logo=VScode&logoColor=38bdf8)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=38bdf8)
 
 ---
